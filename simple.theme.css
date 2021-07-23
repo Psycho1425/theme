@@ -5,11 +5,15 @@
  * @version 1.0
 */
 
-/* Simple.main */ @import url(https://eight-p.github.io/BD.8P/Themes/T1/imports/T1.main.css);
+/* Simple.main */ @import url(https://psycho1425.github.io/simpletheme/simple.main.css);
 
 :root {
 
-  
+  /* Background color of activity cards*/
+--playing: #8ea6fc;
+--spotify: #5fce86;
+--streaming: #9b77da;
+--xbox: #53a853;
 
   
     --Main_Background: url(https://i.imgur.com/nhmHtCG.jpg);
